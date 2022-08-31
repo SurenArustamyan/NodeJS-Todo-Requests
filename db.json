@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title":"My Text",
+      "isCompleted":true,
+      "id":1
+    },
+    {
+      "title":"My Homeworks",
+      "isCompleted":false,
+      "id":2
+    },
+    {
+      "title":"Bye",
+      "isCompleted":true,
+      "id":3
+    }
+  ],
+  "nextId": 4
+}
